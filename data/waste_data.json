@@ -1,0 +1,27 @@
+[
+    {
+        "food_item": "burger",
+        "quantity": "4",
+        "date": "2025-02-12"
+    },
+    {
+        "food_item": "rice",
+        "quantity": "1",
+        "date": "2025-03-06"
+    },
+    {
+        "food_item": "burger",
+        "quantity": "23",
+        "date": "2025-02-12"
+    },
+    {
+        "food_item": "dhosai",
+        "quantity": "3",
+        "date": "2025-02-15"
+    },
+    {
+        "food_item": "rice",
+        "quantity": "768",
+        "date": "2025-12-23"
+    }
+]
